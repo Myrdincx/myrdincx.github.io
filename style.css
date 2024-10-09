@@ -23,3 +23,6 @@ a:hover {
 i {
     color:var(--dsat)
 }
+p {
+    text-size-adjust: 300%;
+}
