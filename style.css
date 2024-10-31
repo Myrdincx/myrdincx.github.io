@@ -1,27 +1,29 @@
 :root {
     --bg: #1e1e1eff;
-    --fg: #dbdbdbff;
-    --acc1: #ffa861;
-    --dsat: #505050;
+    --txt: #dbdbdbff;
+    --acc: #778745;
+    /*#ffa861 (oranje)*/
+    --dtxt: #505050;
 }
 body {
     background-color:var(--bg);
-    color:var(--fg);
+    color:var(--txt);
     font-family:monospace;
     padding-right: 3em;
     padding-left: 3em;
     padding-top: 2em;
-    /* width: 300px; */
+    /*width: 300px;*/
     font-size: 14px;
 }
 a:any-link {
-    color:var(--acc1);
+    color:var(--acc);
     text-decoration:none
 }
 a:hover {
-    text-decoration:underline
+    text-decoration:underline;
+    color: #82944C
 }
 i {
-    color:var(--dsat)
+    color:var(--dtxt)
 }
 
