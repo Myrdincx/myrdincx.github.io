@@ -29,6 +29,6 @@ i {
 textarea {
     background-color: var(--bg);
     color: var(--txt);
-    border-radius: 1px;
+    border-radius: 4px;
     border: 2px solid var(--dtxt);
 }
