@@ -26,4 +26,9 @@ a:hover {
 i {
     color:var(--dtxt)
 }
-
+textarea {
+    background-color: var(--bg);
+    color: var(--txt);
+    border-radius: 1px;
+    border: 2px solid var(--dtxt);
+}
