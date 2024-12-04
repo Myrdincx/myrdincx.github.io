@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>https://myrdin.is-a.dev</id>
+<link href="https://myrdin.is-a.dev/feed/atom.xml" rel="self"/>
+<link href="https://myrdin.is-a.dev"/>
+<title>@myrdin · atom</title>
+<!-- [copy the <updated> tag from the latest entry you pasted in and replace the following] -->
+<updated>2024-12-04T18:50:10.803Z</updated>
+<!-- [paste each entry below here] -->
+<entry>
+<title>@myrdin/blog · about me</title>
+<link href="https://myrdin.is-a.dev/blogs/aboutme"/>
+<id>tag:myrdin.is-a.dev,2024-12-04:/1</id>
+<updated>2024-12-04T18:52:06.829Z</updated>
+<summary type="html"><![CDATA[
+Get to know me with a little bit of information about me!
+]]></summary>
+<author><name>myrdin</name></author>
+</entry>
+<entry>
+<title>@myrdin/blog · game reviews</title>
+<link href="https://myrdin.is-a.dev/blogs/aboutme"/>
+<id>tag:myrdin.is-a.dev,2024-12-04:/2</id>
+<updated>2024-12-04T18:53:03.657Z</updated>
+<summary type="html"><![CDATA[
+Rating some games I have played
+]]></summary>
+<author><name>myrdin</name></author>
+</entry>
+<entry>
+<title>@myrdin/projects · eldiad - my first ever conlang</title>
+<link href="https://myrdin.is-a.dev/projects/eldiad/"/>
+<id>tag:myrdin.is-a.dev,2024-12-04:/3</id>
+<updated>2024-12-04T18:57:44.194Z</updated>
+<summary type="html"><![CDATA[
+Eldiad is an unfinished conlang based on many Western/Northern-European languages.
+]]></summary>
+<author><name>myrdin</name></author>
+</entry>
+<entry>
+<title>@myrdin/projects · blinkies and webrings</title>
+<link href="https://myrdin.is-a.dev/projects/blinkies-and-webring/"/>
+<id>tag:myrdin.is-a.dev,2024-12-04:/4</id>
+<updated>2024-12-04T18:58:20.148Z</updated>
+<summary type="html"><![CDATA[
+This page contains a list of blinkies and webrings :)
+]]></summary>
+<author><name>myrdin</name></author>
+</entry>
+
+
+<!-- [paste each entry above here] -->
+</feed>
