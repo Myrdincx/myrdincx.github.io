@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <id>https://myrdin.is-a.dev</id>
 <link href="https://myrdin.is-a.dev/feed/atom.xml" rel="self"/>
-<link href="https://myrdin.is-a.dev"/>
+<link href="https://myrdin.is-a.dev/"/>
 <title>@myrdin · atom</title>
 <!-- generator: https://miredo.neocities.org/meeat/meeat -->
 <!-- [copy the <updated> tag from the latest entry you pasted in and replace the following] -->
